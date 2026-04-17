@@ -125,7 +125,7 @@ export default function AnimatedLanding() {
               whileTap={{ scale: 0.95 }}
             >
               
-              <ArrowRight className="" />
+            
 
           <a
             href="https://tomaslonnblad.github.io/"
