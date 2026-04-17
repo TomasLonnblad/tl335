@@ -3,7 +3,7 @@
 import React from "react";
 import Link from "next/link";
 import { motion, useScroll, useTransform } from "framer-motion";
-import { Github, ArrowRight, Zap, Shield, Code } from "lucide-react";
+import { Github, , Zap, Shield, Code } from "lucide-react";
 
 import { ScrambleTextOnHover } from "@/components/scramble-text"
 import { BitmapChevron } from "@/components/bitmap-chevron"
@@ -125,7 +125,7 @@ export default function AnimatedLanding() {
               whileTap={{ scale: 0.95 }}
             >
               
-              <ArrowRight className="ml-2 h-5 w-5" />
+              <ArrowRight className="" />
 
           <a
             href="https://tomaslonnblad.github.io/"
