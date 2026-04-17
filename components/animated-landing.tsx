@@ -3,7 +3,7 @@
 import React from "react";
 import Link from "next/link";
 import { motion, useScroll, useTransform } from "framer-motion";
-import { Github, , Zap, Shield, Code } from "lucide-react";
+import { Github, ArrowRight, Zap, Shield, Code } from "lucide-react";
 
 import { ScrambleTextOnHover } from "@/components/scramble-text"
 import { BitmapChevron } from "@/components/bitmap-chevron"
