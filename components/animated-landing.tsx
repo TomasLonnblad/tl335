@@ -129,7 +129,7 @@ export default function AnimatedLanding() {
 
           <a
             href="https://tomaslonnblad.github.io/"
-            className=" group inline-flex items-center gap-3 border border-foreground/0 px-0 py-0 font-semibold  text-xs  hover:text-white-100  bg-purple-500 uppercase tracking-widest text-foreground hover:border-accent hover:text-accent transition-all duration-200"
+            className=" group inline-flex items-center gap-3 border border-foreground/0 px-0 py-0 font-semibold  text-xs  hover:text-white-100  bg-transparant uppercase tracking-widest text-foreground hover:border-accent hover:text-accent transition-all duration-200"
           >
             <ScrambleTextOnHover text=" Shader" as="span" duration={0.6} />
             <BitmapChevron className="transition-transform duration-[200ms] ease-in-out group-hover:rotate-45" />
